@@ -1,0 +1,1 @@
+Work on automating classical cipher cracking in C. The goal is to be able to crack from caesar to transposition ciphers in no time at all.
